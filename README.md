@@ -43,8 +43,6 @@ Mas como os Generiquês escrevem números? Bem, no Generiquês, as palavras tamb
 
 Por exemplo, a palavra gmtm tem o valor numérico de 31662.
 
-OBS: os números nesse problema podem ser grandes, então se você está usando um tipo de dados de tamanho limitado, tenha cuidado com possíveis overflows.
-
 Os Generiquês consideram um número bonito se ele satisfaz essas duas propriedades:
 
 a - é maior ou igual a 787808; b - é divisível por 3;
